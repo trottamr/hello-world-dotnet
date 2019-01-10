@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\SCHOOL\Senior Year\3610\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+C:\Users\Michael\Documents\SCHOOL\Senior Year\3610\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+C:\Users\Michael\Documents\SCHOOL\Senior Year\3610\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+C:\Users\Michael\Documents\SCHOOL\Senior Year\3610\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\Michael\Documents\SCHOOL\Senior Year\3610\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\Users\Michael\Documents\SCHOOL\Senior Year\3610\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\SCHOOL\Senior Year\3610\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\SCHOOL\Senior Year\3610\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\SCHOOL\Senior Year\3610\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+C:\Users\Michael\Documents\SCHOOL\Senior Year\3610\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\Michael\Documents\SCHOOL\Senior Year\3610\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb
